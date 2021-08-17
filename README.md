@@ -10,9 +10,13 @@ The simulation is done 3 times per each number of nodes.
 We show the min, average, and max distances over the number of nodes.
 
 $ clone
+
 $ ls
+
 $ make cleanall
+
 $ bash cmds
+
 $ ls
 
 You will see two .pdf files.
