@@ -3,7 +3,7 @@ https://en.wikipedia.org/wiki/Simulated_annealing
 
 
 ### Convex Optimization
-https://www.cvxpy.org/
+https://www.cvxpy.org/tutorial/index.html
 
 https://www.youtube.com/watch?v=McLq1hEq3UY&list=PL3940DD956CDF0622
 
