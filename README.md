@@ -15,7 +15,7 @@ $ ls
 
 $ make cleanall
 
-$ bash cmds
+$ bash runsim.sh
 
 $ ls
 
