@@ -3,6 +3,8 @@ This project is to demonstrate an automation of simulations.
 
 This project compares two algorithms of TSP (Travelling Salesman Problem). 
 
+https://en.wikipedia.org/wiki/Travelling_salesman_problem
+
 The first one is a greedy algorithm called nearest, which visits the node nearest to the current position. 
 
 The second one is simulated annealing. 
