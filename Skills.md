@@ -23,6 +23,21 @@ https://www.youtube.com/watch?v=xuB1Id2Wxak
 ### google colab
 https://colab.research.google.com/notebooks/intro.ipynb#recent=true
 
+
+### Linux
+https://www.youtube.com/playlist?list=PLckPQEKYlbxebubMWdjcGR7K_ukm35ZjN
+
+
+### Shell Scripting
+https://linuxconfig.org/bash-scripting-tutorial-for-beginners
+
+
+### vi
+https://www.openvim.com/
+
+https://www.youtube.com/watch?v=pU2k776i2Zw&list=PLckPQEKYlbxebubMWdjcGR7K_ukm35ZjN&index=14
+
+
 ### c++
 https://www.w3schools.com/CPP/default.asp
 
